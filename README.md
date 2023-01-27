@@ -10,7 +10,7 @@
   
 
   ## Visual Presentation
-  ![Professional Readme Generator Demo](demo/readme-generator.gif)
+  [Video Link](https://drive.google.com/file/d/1ATCj3P-OLyJC9CH-Ig-RXdqcaoWYxKhh/view?usp=share_link)
 
   ## Description:
   The above gif is a demonstration of how this 'deployed' application works. Created in effort to swiftly generate README files that use a consistant format. This took awhile for me to find all the missing pieces to get something working, it's weird yet awesome how something so seemingly simple took many hours of testing. Please enjoy the generator!
